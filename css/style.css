@@ -1,0 +1,52 @@
+body {
+ background:rgb(130, 130, 245);
+ margin-left: 20px;  
+ margin-right: 150px;
+}
+
+/* site para saber nomes e copiar aqui https://htmlcolorcodes.com/ */
+
+header{
+    margin-top: 80px;
+}
+
+h1 {
+    color: rgb(40, 20, 220);
+    font-family: cursive;
+}
+
+h2{
+    color: darkblue;
+    font-family: fantasy;
+}
+
+h3{
+    color: darkblue;
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+    margin-left: 25px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 50px;
+}
+
+.img_contatoLogo{
+    margin-right: 2px;
+    margin-bottom: 20px;
+}
+.contato{
+    margin: 15px;
+}
+
+footer p{
+    color: red;
+    font-style: oblique;
+    text-align: center;
+    margin-bottom: 30px;
+}
